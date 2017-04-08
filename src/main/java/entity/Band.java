@@ -3,7 +3,7 @@ package entity;
 import java.util.List;
 
 /**
- * Created by Николай on 12.03.2017.
+ * Created by пїЅпїЅпїЅпїЅпїЅпїЅпїЅ on 12.03.2017.
  */
 public class Band {
     private String name;

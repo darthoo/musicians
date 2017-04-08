@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.util.List;
 
 /**
- * Created by Николай on 12.03.2017.
+ * Created by пїЅпїЅпїЅпїЅпїЅпїЅпїЅ on 12.03.2017.
  */
 public class BandService {
 
